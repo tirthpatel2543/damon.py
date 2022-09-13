@@ -63,4 +63,4 @@ async def premium(ctx,*, user = discord.Member):
     embed.set_footer(text='Made with 💖 by Serious Wolfey#9377', icon_url= 'https://cdn.discordapp.com/avatars/757184713390686208/d96b433913f36d1e7d717f963b623548.webp?size=2048')
     await ctx.send(embed=embed)
 
-bot.run("OTY5MTM4NzUxNDU0NDc4MzU2.YmpCzA.x43SWAGydGJu4mVxhFGXO3WD5n4")
+bot.run(ADD YOUR BOT TOKEN)
